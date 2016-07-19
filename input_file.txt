@@ -1,0 +1,1148 @@
+﻿$ T 01 0008
+r.1.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 1 GADA-=TÚG TÚG-MU 
+r.1.2 1 MA-NA BAR₆:KÙ 
+r.1.3 p_wa-ru₁₂-dum 
+r.1.4 g_ma-rí-=KI 
+r.1.5 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.1.6 EN 
+r.1.7 g_kak-mi-um-=KI 
+r.1.8 [N] ʾà-da-[um]-=TÚG-Ⅱ [N AKTU]M⸢-=TÚG⸣ [N ÍB-Ⅲ-=TÚG SA₆ DAR] 
+r.1.9 [ABBÁ-sù] 
+r.1.10 [… *KI]R 
+r.1.11 [MAŠKI]M-[s]ù 
+r.1.12 [1 ʾà-]da-[um-=TÚG-Ⅱ] 
+r.1.13 cb2 
+r.2.1 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.2.2 EN 
+r.2.3 g_bur-ma-an-=KI 
+r.2.4 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 1 ÍB-Ⅲ-=TÚG DAR 
+r.2.5 2 MAŠKIM-sù 
+r.2.6 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.2.7 EN 
+r.2.8 g_du-ub-=KI 
+r.2.9 ⸢3⸣ ʾà-da-um-=TÚG-Ⅱ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.2.10 ABBÁ-sù 
+r.2.11 1 ʾà-da-um-=TÚG-Ⅰ 5 AKTUM-=TÚG 5 ÍB-Ⅲ-=TÚG DAR 
+r.2.12 ⸢MAŠKIM-sù⸣ 
+r.3.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.3.2 EN 
+r.3.3 g_ù-ti-ig-=KI 
+r.3.4 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 4 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 3 ÍB-Ⅱ-=TÚG DAR 
+r.3.5 MAŠKIM-sù 
+r.3.6 m[a-z]a-lu[m-sù?] 
+r.3.7 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.3.8 EN 
+r.3.9 g_i-bu₁₆-bu-=KI 
+r.3.10 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+r.3.11 MAŠKIM-sù 
+r.3.12 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+r.3.13 m[a]-za-⸢lum⸣[-sù] 
+r.4.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.4.2 ba-da-lum 
+r.4.3 g_ur-sá-um-=KI 
+r.4.4 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 4 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 2 ÍB-Ⅲ-=T[ÚG] DAR 
+r.4.5 ABBÁ-sù 
+r.4.6 20 *SAL-=TÚG 20 ÍB-Ⅲ-=TÚG DAR 
+r.4.7 MAŠKIM-sù 
+r.4.8 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 1 ÍB-Ⅱ?-=TÚG SA₆ DAR 1 ÍB-Ⅱ-=TÚG DAR 
+r.4.9 g_kab-lu₅-ul-=KI 
+r.4.10 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅰ?-=TÚG SA₆ DAR 
+r.4.11 p_a-mu-du 
+r.4.12 p_ig-na-da-ar 
+r.4.13 [g_hu-ti]-⸢mu⸣-=KI 
+r.5.1 10 LÁ-2 GU-DÙL⸢-=TÚG⸣ 10 LÁ-2 AKTUM⸢-=TÚG⸣ 10 LÁ-2 ÍB-:N[-=TÚG] DAR 
+r.5.2 MAŠKIM-s[ù] 
+r.5.3 2 G[U]-DÙL⸢-=TÚG⸣ 2 *SAL⸢-=TÚG⸣ 2 ÍB-Ⅲ-=TÚG DAR 
+r.5.4 KÚ 
+r.5.5 IZI 
+r.5.6 1 AKTUM-=TÚG 1 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+r.5.7 g_áb-zu-=KI 
+r.5.8 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅳ?-=TÚG SA₆ DAR 
+r.5.9 g_ʾà-du-=KI 
+r.5.10 2 *SAL-=TÚG 2 [Í]B-Ⅲ-=TÚG DA[R] 
+r.5.11 MAŠKIM-sù 
+r.5.12 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.5.13 p_ku-ra-gàr-ru₁₂ 
+r.5.14 4 ʾà-da-um-=TÚG-Ⅱ 4 AKTUM-=TÚG 4 ÍB-Ⅱ-=TÚG SA₆ ⸢DAR⸣ 
+r.5.15 4 ŠEŠ- 
+r.6.1 -sù 
+r.6.2 3 GU-DÙL-=TÚG 3 *SAL-=TÚG 3 ÍB-Ⅲ-=TÚG DAR 
+r.6.3 ABBÁ-sù 
+r.6.4 20 AKTUM-=TÚG 20 ÍB-Ⅲ-=TÚG DAR 
+r.6.5 GURUŠ-GURUŠ-sù 
+r.6.6 2 GU-DÙL-=TÚG 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.6.7 g_ti-sum-=KI 
+r.6.8 3 GU-DÙL-=TÚG 3 *SAL-=TÚG 3 ÍB-Ⅰ-=TÚG DAR 
+r.6.9 ABBÁ-sù 
+r.6.10 20 AKTUM-=TÚG 20 ÍB-Ⅲ-=TÚG DAR 
+r.6.11 GURUŠ-sù 
+r.6.12 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG [S]A₆ DAR 
+r.6.13 ba-da-⸢lum⸣ 
+r.6.14 g_ha-ra-[an-=KI] 
+r.6.15 2 ʾà-⸢da⸣-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 Í[B-:N-=TÚG] S[A₆] DAR 
+r.6.16 ABBÁ-sù 
+r.7.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.7.2 ba-da-lum 
+r.7.3 g_ir-i-dum⸢-=KI!!⸣ 
+r.7.4 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 4 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 3 ÍB-Ⅲ-=TÚG DAR 
+r.7.5 ABBÁ-sù 
+r.7.6 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.7.7 UGULA g_a-sa-lu-=KI 
+r.7.8 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.7.9 EN 
+r.7.10 g_*NI-ra-ar-=KI 
+r.7.11 3 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 5 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG SA₆ DAR 2 ÍB-Ⅲ-=TÚG DAR 
+r.7.12 [ABBÁ-sù] 
+r.7.13 [1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG] 
+r.8.1 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.8.2 EN 
+r.8.3 g_ì-mar-=KI 
+r.8.4 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.8.5 ABBÁ-sù 
+r.8.6 10-2 *SAL⸢-=TÚG⸣ 10-2 ÍB-Ⅲ-=TÚG DAR 
+r.8.7 NAR-sù 
+r.8.8 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.8.9 EN 
+r.8.10 g_gàr-mu-=KI 
+r.8.11 1 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.8.12 MAŠKIM-sù 
+r.8.13 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.8.14 [E]N 
+r.8.15 [g_…-=KI] 
+r.9.1 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.9.2 ABBÁ-sù 
+r.9.3 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.9.4 EN 
+r.9.5 g_ra-ʾà-ag-=KI 
+r.9.6 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.9.7 DUMU-NITA-sù 
+r.9.8 3 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 5 AKTUM-=TÚG 5 ÍB-Ⅱ SA₆ DAR 
+r.9.9 ABBÁ-sù 
+r.9.10 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.9.11 2 NÍG-LÁ-*DU 
+r.9.12 g_du-lu-=KI 
+r.9.13 1 AKTUM-=TÚG [1 ÍB-Ⅱ?-=TÚG DAR] 
+r.10.1 ma-za-lum-sù 
+r.10.2 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.10.3 2 NÍG-LÁ-*DU 
+r.10.4 p_ìr-am₆-D_ma-lik 
+r.10.5 g_ar-ha-du-=KI 
+r.10.6 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 ÍB-Ⅱ-=TÚG DAR 
+r.10.7 MAŠKIM-sù 
+r.10.8 2 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 3 AKTUM-=TÚG 3 ÍB-Ⅰ-=TÚG SA₆ DAR 
+r.10.9 g_gú-da-da-núm-=KI 
+r.10.10 10-1 ʾà-da-um-=TÚG-Ⅱ 10-1 AKTUM-=TÚG 10-1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.10.11 UGULA g_ib-al₆-=KI 
+r.10.12 1 ʾà-da-um-=TÚG-Ⅰ [1 AKTUM-=TÚG] 
+r.11.1 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.11.2 MAŠKIM E-GI₄ 
+r.11.3 DUMU-NITA 
+r.11.4 p_ʾà-ga-ru₁₂ 
+r.11.5 1 GU-MUG-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅱ-=TÚG DAR 
+r.11.6 MAŠKIM-sù 
+r.11.7 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.11.8 g_tal-la-zu-gur-=KI 
+r.11.9 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+r.11.10 ABBÁ-sù 
+r.11.11 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG DAR 
+r.11.12 ma-za-lum-sù 
+r.11.13 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 4 AKTUM-=TÚG 4 ÍB-Ⅲ SA₆ DAR 
+r.11.14 ⸢g_*HAR-hu⸣[-zi-um-=KI] 
+r.12.1 g_ʾà-zi-gú-=KI 
+r.12.2 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.12.3 ba-da-lum 
+r.12.4 g_sa-nab-zu-gúm-=KI 
+r.12.5 2 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG DAR 
+r.12.6 ABBÁ-sù 
+r.12.7 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG DAR 
+r.12.8 ma-za-lum-sù 
+r.12.9 1 TÚG-*NI.*NI 1 ÍB-Ⅲ-=TÚG DAR 
+r.12.10 p_rí-ì-D_ma-lik 
+r.12.11 g_ʾà-ru₁₂-gú-=KI 
+r.12.12 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG DAR 
+r.12.13 g_šar-hu-=KI 
+r.12.14 1 ʾà-da-⸢um-=TÚG-Ⅱ⸣ 
+r.13.1 1 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 1 ÍB-Ⅱ-=TÚG DAR 
+r.13.2 g_za-bur-rúm-=KI 
+r.13.3 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.13.4 2 NÍG-LÁ-SAG 4 NÍG-LÁ-*DU 
+r.13.5 g_ga-*NE-su-=KI 
+r.13.6 2 {X} ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.13.7 p_gi-ba-rí-a 
+r.13.8 wa 
+r.13.9 1 DUMU-NITA-sù 
+r.13.10 10 LÁ-3 AKTUM-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG DAR 
+r.13.11 *NE.*DI 
+r.13.12 p_ì-sa-ga-u₉ 
+r.13.13 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG [2] ÍB⸢-Ⅲ⸣-=TÚG [SA₆? DAR] 
+r.14.1 4 NÍG-LÁ-*DU 
+r.14.2 g_*HAR-da-ab-*LUM-=KI 
+r.14.3 30 LÁ-3 ʾà-da-um-=TÚG-Ⅱ 30 LÁ-3 AKTUM-=TÚG 30 LÁ-3 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.14.4 g_a-ma-za-rí-um-=KI 
+r.14.5 g_li-ti-gi-*NE-um-=KI 
+r.14.6 g_ba-*NI-um-=KI 
+r.14.7 g_du-uš-ti-um-=KI 
+r.14.8 g_ba-u₉-ra-su-=KI 
+r.14.9 g_gur/*GIŠ-ru₁₂-uš-dam-=KI 
+r.14.10 g_gu₄-ba-rí-um-=KI 
+r.14.11 g_ib?-ba-*NE-um-=KI 
+r.14.12 g_ba-ga-ra-=KI 
+r.14.13 g_du-sa-dum-=KI 
+r.14.14 g_la-za-=KI 
+r.14.15 g_ga-zi-da-nu-=KI 
+r.14.16 g_*HAR-ba-*LUM-=KI 
+r.14.17 g_ab-ba-i-=KI 
+r.14.18 g_a-ba₄-ga-=KI 
+r.14.19 [g_…-=KI] 
+r.15.1 [g_…-=KI] 
+r.15.2 g_a-mu-rí-=KI 
+r.15.3 g_šu-mu-ru₁₂-=KI 
+r.15.4 g_ù-ru₁₂-mu-=KI 
+r.15.5 g_ar-mi-=KI 
+r.15.6 KAS₄-KAS₄ 
+r.15.7 p_ki-ti-ir 
+r.15.8 w[a] 
+r.15.9 p_ha-r[a]-*NI 
+r.15.10 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.15.11 1 DIB *ŠÚ@+*ŠA 
+r.15.12 p_a-da-pi!!-zu 
+r.15.13 *TUŠ.*LÚ×*TIL 
+r.15.14 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 ÍB-Ⅱ-=TÚG SA₆ DAR 
+r.15.15 p_*PI-su-*LUM 
+r.15.16 p_šu-D_ma-lik 
+r.15.17 MAŠKIM 
+r.15.18 p_ha-ra-*NI 
+r.15.19 wa 
+r.15.20 1 ʾà-da-um-=TÚG-Ⅱ 
+v.1.1 [1 AKTUM-=TÚG] 1 Í[B-:N …] 
+v.1.2 […] 
+v.1.3 […] 
+v.1.4 [i]n 
+v.1.5 g_dar-ha-du-=KI 
+v.1.6 2 ÍB-=TÚG SA₆ DAR SAG 
+v.1.7 LÚ MU-*DU 
+v.1.8 p_i-bí-zi-kir 
+v.1.9 EN 
+v.1.10 ŠU-BA₄-TI 
+v.1.11 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR SAG 
+v.1.12 EN 
+v.1.13 g_ì-mar-=KI 
+v.1.14 in 
+v.1.15 GI₆-SÁ 
+v.1.16 ŠU-BA₄-TI 
+v.1.17 5 ʾà-da-um-=TÚG-Ⅱ 5 AKTUM-=TÚG 5 Í[B-:N-=TÚG] S[A₆ DAR] 
+v.1.18 […] 
+v.2.0 cb1 
+v.2.1 […]X 
+v.2.2 EN 
+v.2.3 6 ʾà-da-um-=TÚG-Ⅱ 6 AKTUM-=TÚG 6 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.2.4 p_na-am₆-ha-lu 
+v.2.5 p_íl-e-i-šar 
+v.2.6 p_a-zú-gú-ra 
+v.2.7 p_zi-mi-na-D_da-mu 
+v.2.8 p_en-na-ni-il 
+v.2.9 p_su-na-im 
+v.2.10 4 GU-DÙL-=TÚG 4 AKTUM-=TÚG 4 ÍB-Ⅴ-=TÚG SA₆ DAR 
+v.2.11 p_a-šu-ur-D_ma-lik 
+v.3.0 cb1 
+v.3.1 [p_ …]-D_ma-lik 
+v.3.2 p_PUZUR₄-rí 
+v.3.3 5 GU-DÙL-=TÚG 5 AKTUM-=TÚG 5 ÍB-Ⅲ SA₆ DAR 
+v.3.4 p_da-zi-ma-du 
+v.3.5 p_ha-zi-ir 
+v.3.6 p_i-ti-a-gú 
+v.3.7 p_en-na-ni-il 
+v.3.8 p_*LAGAB×*ÚŠ-ra-ar 
+v.3.9 ŠEŠ-PA₄ 
+v.3.10 p_i-bí-zi-kir 
+v.3.11 3 *SAL-=TÚG 3 ÍB-Ⅳ DAR 
+v.3.12 g_*EN-mu-=KI 
+v.4.0 cb1 
+v.4.1 [1 GU-DÙL-=TÚG? 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆] DAR 
+v.4.2 p_li-ma-D_DINGIR=-da-gan 
+v.4.3 2 GU-DÙL-=TÚG 2 AKTUM-=TÚG 2 ÍB-Ⅲ SA₆ DAR 
+v.4.4 p_ti-iš-ga-nu 
+v.4.5 p_ʾà-ti-ir 
+v.4.6 ŠEŠ 
+v.4.7 ba-da-lum 
+v.4.8 g_hal-sum-=KI 
+v.4.9 1 ʾà-da-=TÚG 1 GU-DÙL-=TÚG 2 AKTUM-=TÚG 2 ÍB-Ⅳ SA₆ DAR 
+v.4.10 p_ig-bù-ul-D_ma-lik 
+v.5.1 [1 ʾà-da-um-=TÚG? 1 AKTUM-=TÚG] 1 ÍB-Ⅲ SA₆ DAR 
+v.5.2 p_ʾà-da-ša 
+v.5.3 6 GU-MUG-=TÚG 6 *SAL-=TÚG 6 ÍB-Ⅱ DAR 
+v.5.4 p_ìr-da-D_m[a-lik] 
+v.5.5 p_en-na-D_ma-lik 
+v.5.6 p_*NI-bù-ul-*NI 
+v.5.7 p_bù-ma-ù 
+v.5.8 p_zi-mi-na-a-hu 
+v.5.9 p_i-ti-a-gú!! 
+v.5.10 10 LÁ-3 *SAL-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG DAR 
+v.5.11 p_iš-da-má 
+v.5.12 p_u₉-bù 
+v.5.13 p_*NE-*NI-*HAR 
+v.5.14 p_*NI-zi-ma-*NI 
+v.6.1 […] 
+v.6.2 p_ru₁₂-z[i]-D_ma-lik 
+v.6.3 p_ab-rí-a-⸢hu⸣ 
+v.6.4 BA-ZA 
+v.6.5 1 GU-MUG-=TÚG 1 ÍB-Ⅰ-=TÚG DAR 
+v.6.6 p_ib-dur-*NI 
+v.6.7 2 ÍB-Ⅳ DAR TÚG 
+v.6.8 p_za-[*PI]-*L[UM] 
+v.6.9 p_iš-la-⸢*NI⸣ 
+v.6.10 2 BA-ZA 
+v.6.11 2 *SAL-=TÚG 2 ÍB-Ⅳ DAR TÚG 
+v.6.12 p_a-ba₄-D_ma-lik 
+v.6.13 p_zi-kir-ra-ba₄ 
+v.6.14 *NE.*DI 
+v.6.15 20 LÁ-2 GU-MUG-=TÚG 20 LÁ-2 *SAL-=TÚG 20 LÁ-2 ÍB-Ⅲ-=TÚG DAR 
+v.6.16 p_i-ti-D_DINGIR=-EN-KI 
+v.6.17 p_ìr-az-*NI 
+v.6.18 p_ku-ʾà-bu₁₆ 
+v.7.1 […] 
+v.7.2 p_gú-a-gú 
+v.7.3 p_en-na-*NI 
+v.7.4 p_tu-*AN 
+v.7.5 p_ša-za-i[š] 
+v.7.6 p_wa-ad-ra-im 
+v.7.7 p_*BAD-*É 
+v.7.8 p_i-šar-D_ma-lik 
+v.7.9 p_n[a-]⸢X⸣-*HI 
+v.7.10 p_ib-dur-i-šar 
+v.7.11 [p_en-na]-ni-⸢il⸣ 
+v.7.12 p_en-na-D_DINGIR=-da-gan 
+v.7.13 p_bù-da-*NI 
+v.7.14 p_a-bù-D_ma-lik 
+v.7.15 p_ba-du-lum 
+v.7.16 3 *SAL-=TÚG 1 ÍB-Ⅲ DAR 
+v.7.17 p_ʾà-*NE 
+v.7.18 p_ib-dur-D_DINGIR=-da-gan 
+v.7.19 DUMU-NITA 
+v.7.20 p_ʾà-da-mi-gu 
+v.7.21 NAR-NAR 
+v.8.1 [1 GU-MUG-=TÚG] 1 *SAL-=TÚG 1 ÍB-Ⅲ DAR TÚG 
+v.8.2 p_iš-la-da-du 
+v.8.3 2 AKTUM-=TÚG 2 ÍB-Ⅲ DAR ⸢TÚG⸣ 
+v.8.4 […] 
+v.8.5 […] 
+v.8.6 3 *SAL[-=TÚG] 1 *TAR *SAL-=TÚG 3 ÍB-Ⅱ-=TÚG DAR 
+v.8.7 p_i-dè-ni-ki-⸢mu⸣ 
+v.8.8 p_en-na-*NI 
+v.8.9 p_in-D_ma-lik 
+v.8.10 p_en-na-a-hu 
+v.8.11 *NE.*DI 
+v.8.12 TUR 
+v.8.13 10 ÍB-Ⅲ DAR TÚG 
+v.8.14 *NE.*DI 
+v.8.15 g_EDIN-=KI 
+v.8.16 1 *SAL-=TÚG 1 ÍB-Ⅲ DAR 
+v.8.17 p_i-i-bù 
+v.8.18 MAŠKIM 
+v.8.19 p_ir-*NE 
+v.8.20 NÍG-*AN@|*AN.*AN@|*AN 
+v.9.1 [DAM] 
+v.9.2 EN 
+v.9.3 g_du-ub-=KI 
+v.9.4 TU-DA 
+v.9.5 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅲ [DAR] TÚG 
+v.9.6 X[-…] 
+v.9.7 g_ar-ha-du-=KI 
+v.9.8 1 ÍB-Ⅳ DAR TÚG 
+v.9.9 p_íl-ba-D_ma-lik 
+v.9.10 g_da-⸢rí⸣-í[b-=KI] 
+v.9.11 AL₆-TUŠ 
+v.9.12 g_ga-ra-ma-an-=KI 
+v.9.13 10-4 GU-DÙL-=TÚG 10-4 AKTUM-=TÚG 10-4 ÍB-Ⅲ-=TÚG DAR 
+v.9.14 p_PUZUR₄-ra-*NI 
+v.9.15 p_ša-gú-mu 
+v.9.16 p_i-i-bu₁₆ 
+v.9.17 p_i-ti-*NI 
+v.9.18 g_ib-zu-=KI 
+v.9.19 p_*NI!!-*NE-ba₄ 
+v.9.20 p_i-ti-*NI 
+v.10.1 [g_X?-]X-⸢ša?⸣-ra-mu-=KI 
+v.10.2 p_bu₁₄-du 
+v.10.3 ⸢p_zi⸣-[i-]šar 
+v.10.4 p_*KA-[X]-X 
+v.10.5 g_mu-rí-gú-=KI 
+v.10.6 p_ha-za-bù 
+v.10.7 g_X-rí-X-gú-za-=KI 
+v.10.8 p_a-lu-a 
+v.10.9 p_*EN-du 
+v.10.10 g_da-mi-lu-=KI 
+v.10.11 ⸢ABBÁ⸣-[AB]BÁ 
+v.10.12 [g_X]-X-du-=KI 
+v.10.13 4 ʾà-da-um-=TÚG-Ⅱ 4 AKTUM-=TÚG 4 ÍB-Ⅲ SA₆ DAR 
+v.10.14 1 GIŠ=-BANŠUR 1 GÍR MAR-TU 1 GIŠ=-GU-KAK!-GÍD ŠUB 
+v.10.15 p_en-na-*NI 
+v.10.16 LÚ p_*EN-mar 
+v.10.17 p_ib-dur-i-šar 
+v.10.18 p_ʾà-zi 
+v.10.19 LÚ p_lá-a-*LUM 
+v.10.20 p_íl-ba-gú-nu 
+v.11.1 [1 ʾà-da-um-=TÚG]⸢-Ⅱ⸣ [1 AKTUM-=TÚG] 1 Í[B]-Ⅱ[+1?] SA₆ DAR 
+v.11.2 p_*EN-zú-*PI-*AŠ 
+v.11.3 LÚ-DINGIR-DINGIR 
+v.11.4 1 AKTUM-=TÚG 1 GÍR MAR-TU 
+v.11.5 D_DINGIR=-*NI-da-*KUL 
+v.11.6 g_ʾà-mu!!-du-=KI 
+v.11.7 1 ʾà-da-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅰ-=TÚG SA₆ DAR 
+v.11.8 1 ÍB-LÁ 1 si-ti-dum 1 [GÍR] K[UN …] 
+v.11.9 MU-*D[U] 
+v.11.10 g_*NI-ra-ar-=KI 
+v.11.11 Ì-GIŠ-SAG 
+v.11.12 EN 
+v.11.13 wa 
+v.11.14 Ì-NA-SUM 
+v.11.15 p_ki-ti-ir 
+v.11.16 in U₄ 
+v.11.17 HÚL-sù TÚG? 
+v.11.18 p_i-bí-zi-kir 
+v.11.19 ŠU-MU-TAG₄ 
+v.11.20 2 ZARA₆-=TÚG 2 GÍD-=TÚG 
+v.11.21 ma-lik-dum 
+v.11.22 g_du-ub-=KI 
+v.11.23 wa 
+v.11.24 DUMU-MÍ-sù 
+v.12.1 1 ⸢ʾà⸣-[da]-um[-=TÚG-Ⅱ?] ⸢1⸣ […] 1 [X-X] TÚG 1 ÍB-Ⅳ ⸢SA₆⸣ DAR 
+v.12.2 DUMU-NITA-sù 
+v.12.3 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅳ SA₆ DAR 
+v.12.4 1 ÍB-LÁ 1 si-ti-dum 1 GÍR KUN KÙ-GI 
+v.12.5 MU-*DU 
+v.12.6 g_*NI-ra-ar-=KI 
+v.12.7 *ŠÈ 
+v.12.8 ŠU-BA₄-TI 
+v.12.9 g_íl-*PI-um-=KI 
+v.12.10 wa 
+v.12.11 Ì-NA-SUM 
+v.12.12 p_ìr-am₆-D_da-mu 
+v.12.13 LÚ p_íl-zi-D_da-mu 
+v.12.14 in U₄ 
+v.12.15 HÚL-sù 
+v.12.16 p_i-bí-zi-kir 
+v.12.17 ŠU-MU-TAG₄ 
+v.12.18 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆ DAR 
+v.12.19 p_bar-zi 
+v.13.1 MAŠKIM 
+v.13.2 p_ki-ti-ir 
+v.13.3 *TUŠ.*LÚ×*TIL 
+v.13.4 in 
+v.13.5 g_a-bar-mi-zu-=KI 
+v.13.6 2 AKTUM-=TÚG 2 ÍB-Ⅲ DAR TÚG 
+v.13.7 Ì-GIŠ-SAG 
+v.13.8 p_i-bí-zi-kir 
+v.13.9 LÚ p_zi-da 
+v.13.10 [p_n]a-zu-mu 
+v.13.11 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆ DAR 
+v.13.12 p_i-ti-D_DINGIR=-*NI-lam 
+v.13.13 in U₄ 
+v.13.14 HÚL-sù 
+v.13.15 p_ù-ti 
+v.13.16 ŠU-MU-TAG₄ 
+v.13.17 20 AKTUM-=TÚG TI-=TÚG 
+v.13.18 EN 
+v.13.19 10 LÁ-2 ÍB-Ⅱ-=TÚG SA₆ DAR 2 ÍB-Ⅳ DAR TÚG 
+v.13.20 *HÚB.*KI 
+v.13.21 1 ÍB-Ⅲ SA₆ DAR 
+v.13.22 p_bu-da-na-im 
+v.14.1 *HÚB.*KI 
+v.14.2 g_ù-ti-gú-=KI 
+v.14.3 4 ʾà-da-um-=TÚG-Ⅱ 4 AKTUM-=TÚG 4? ÍB SA₆ DAR 4 GADA-=TÚG 
+v.14.4 [4? GÍR M]AR-TU [g]a-[m]e-ù BAR₆:KÙ 
+v.14.5 [p_e]n-na-BE 
+v.14.6 [p_X-]na-lu 
+v.14.7 [p_PUZU]R₄!!-[(ra-)]⸢a?⸣-gú  
+v.14.8 [p_X-d]a-[(X-)]mu 
+v.14.9 10 [LÁ-3] G[U]-DÙL-=TÚG 10 LÁ-3 *SAL-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG DAR 
+v.14.10 10 LÁ-3 GADA-=TÚG 
+v.14.11 4 GÍR MAR-TU ga-me-ù BAR₆:KÙ 
+v.14.12 p_šu-a-*NE 
+v.14.13 ⸢p_a⸣-D_ma-lik 
+v.14.14 p_PUZUR₄-ra-D_ma-lik 
+v.14.15 p_i-ti-*LUM 
+v.14.16 ŠU-BA₄-TI 
+v.14.17 1 GÍR MAR-TU 
+v.14.18 p_ba-du-lum 
+v.14.19 p_ì-gi 
+v.14.20 p_*EN-ga-ud 
+v.14.21 10 GU-MUG-=TÚG 10 *SAL-=TÚG 10 ÍB-Ⅳ DAR TÚG 
+v.15.1 10 GADA-=TÚG 4 *SAL-=TÚG NÍG-LÁ-*DU 
+v.15.2 6 GÍR MAR-TU ga-me-ù BAR₆:KÙ 
+v.15.3 3 GÍR MAR-TU […] 
+v.15.4 […] 
+v.15.5 X-[…] 
+v.15.6 p_X[-X]-ba-al₆ 
+v.15.7 p_šu-D_ma-lik 
+v.15.8 g_a-da-bí-ig-=KI 
+v.15.9 p_du-ur-*NI 
+v.15.10 g_ʾà-du-ma-=KI 
+v.15.11 […] 
+v.15.12 […] 
+v.15.13 […]? 
+v.15.14 p_X-[X-]g[u?(-X)] 
+v.15.15 p_ša-[X-]bù 
+v.15.16 g_a-da-bí-ig-=KI 
+v.15.17 AL₆-TUŠ 
+v.15.18 g_ga-la-*NE-šu-=KI 
+v.15.19 4 GU-MUG-=TÚG 
+v.16.1 4 DUMU-NITA 
+v.16.2 GIŠ-NU-KIRI₆ 
+v.16.3 1 GADA-=TÚG TÚG-MU 4 GADA-=TÚG [g_SI]G₄-=KI […] 
+v.16.4 […] 
+v.16.5 EN 
+v.16.6 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆ DAR 
+v.16.7 ⸢p_en⸣-[na-]*NI 
+v.16.8 UGULA BÌR-*BAR.*AN 
+v.16.9 EN 
+v.16.10 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆ DAR 1 GADA-=TÚG TÚG-MU 1 NÍG-LÁ-SAG 1 NÍG-LÁ-*DU 
+v.16.11 EN 
+v.16.12 g_kak-mi-um-=KI 
+v.16.13 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG DAR 
+v.16.14 p_PUZUR₄-ra-a-hu 
+v.16.15 g_ì-mar-=KI 
+v.16.16 *GIŠ.*DUG.*DU 
+v.16.17 1 GADA-=TÚG 
+v.16.18 p_bù-da-D_ma-lik 
+v.16.19 LÚ p_ib-*NI-*LUM 
+v.16.20 {X} {Í[B-Ⅱ] 1} X X 
+v.17.1 1 DÙL-=TÚG 1 AKTUM-=TÚG 
+v.17.2 1 GADA-=TÚG 1 NÍG-LÁ-GABA 
+v.17.3 p_a-me-du 
+v.17.4 LÚ p_i-⸢gi⸣-iš-l[u] 
+v.17.5 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG DAR 
+v.17.6 ma-za-lum-sù 
+v.17.7 1 *SAL-=TÚG *TAR.*TAR 
+v.17.8 NÍG-LÁ-*DU 
+v.17.9 MAŠKIM-MAŠKIM-sù 
+v.17.10 5 GU-MUG-=TÚG 
+v.17.11 5 DUMU-NITA 
+v.17.12 MUHALDIM 
+v.17.13 6 GU-MUG-=TÚG 
+v.17.14 6 *SAL-=TÚG 
+v.17.15 Ú!!!-A 
+v.17.16 É- 
+v.17.17 DINGIR-DINGIR-DINGIR 
+v.17.18 1 ʾà-da-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+v.17.19 g_*NI-da-dum-=KI 
+v.17.20 1 GU-DÙL-=TÚG 1 AKTUM-=TÚG 1 ÍB-Ⅲ SA₆ DAR 
+v.17.21 p_a-bir₅ 
+v.17.22 LÚ-KAR 
+v.17.23 g_ma-rí-=KI 
+v.17.24 30 LÁ-3 *KIN SIKI 
+v.17.25 [p_i-š]ar 
+v.17.26 [p_X-m]a-an 
+v.17.27 p_ib-dur-a-gú 
+v.18.1 p_*EN-da-za 
+v.18.2 p_za-ba-lum 
+v.18.3 ⸢p_a⸣-me-du 
+v.18.4 p_PUZUR₄-ra-D_ma-lik 
+v.18.5 p_ki-a-D_da-mu 
+v.18.6 p_i-nu-ud 
+v.18.7 p_ib-ga-*NI 
+v.18.8 p_ib-ga-a-gú 
+v.18.9 p_ì-sa-dum 
+v.18.10 p_en-na-ni-il 
+v.18.11 p_ba-ša-lu 
+v.18.12 p_*EN-*KA-*NI 
+v.18.13 p_ša-ti-lu 
+v.18.14 p_me-ga-*NI 
+v.18.15 p_ìr-ba-du 
+v.18.16 p_ib-u₉-mu-du 
+v.18.17 p_ib-hur-ra 
+v.18.18 p_i-ti-a-gú 
+v.18.19 p_ìr-íb-ga-ma-al₆ 
+v.18.20 p_ar-šè 
+v.18.21 p_ìr-íb-*NI 
+v.18.22 p_i-ti-a-gú-Ⅱ 
+v.18.23 p_*NI-ba-*NI 
+v.18.24 p_gul-D_da-mu 
+v.18.25 Ì-DÍM 
+v.18.26 É- 
+v.18.27 EN 
+v.18.28 60 *KIN SIKI 
+v.18.29 TÚG-NU-TAG 
+v.18.30 30 gu-zi-=TÚG 
+v.19.1 p_na-me 
+v.19.2 ⸢p_zi⸣-[…] 
+v.19.3 [DU₁₁-G]A 
+v.19.4 NIDBÁ 
+v.19.5 D_DINGIR=-ra-sa-ap 
+v.19.6 g_gú-nu 
+v.19.7 *AN.*ŠÈ.*GÚ 1 mi-at 30-8 ʾà-da-um-=TÚG-Ⅱ DÙL-=TÚG ⸢g_ma⸣-rí-=KI 
+v.19.8 2[+1? m]i-at 60-30-6 AKTUM-=TÚG 
+v.19.9 1 mi-at 20 LÁ-1 GU-DÙL-=TÚG ʾà-da-um-=TÚG-Ⅰ GADA-=TÚG 
+v.19.10 2 GÍD-=TÚG 2 ZARA₆-=TÚG 1 TÚG-*NI@|*NI 1 NÍG-LÁ-GABA 3 NÍG-LÁ-SAG 
+v.19.11 1 mi-at 10-3 *SAL-=TÚG 
+v.19.12 3 ÍB-Ⅲ-=TÚG SA₆ DAR SAG 
+v.19.13 1 mi-at 60-10-1 ÍB-Ⅱ-=TÚG SA₆ DAR 
+v.19.14 2 mi-at 30-1 ÍB-Ⅱ-=TÚG DAR 
+le.1 [ŠU-NIGÍN] 
+le.2 1[+6? mi]-⸢at⸣ [60+]10-5 TÚG-TÚG 
+le.3 [I]TI n_za-*LUL 
+le.4 50-6 GU-MUG-=TÚG 
+
+
+$ T 03 0260
+v.6.0 cb99 
+v.5.2 cb2 
+v.5.1 ce4 
+v.5.0 cb1 
+v.4.5 cb2 
+v.4.4 ce4 
+v.4.3 p_ù-ti-mu 
+v.4.2 IR₁₁-IR₁₁ 30 
+v.4.1 […]-X 
+v.4.0 cb1 
+v.3.7 cb2 
+v.3.6 ÍB-Ⅲ-GÙN-=TÚG 1 *SAL-=TÚG 1 
+v.3.5 p_an-na-*NI 
+v.3.4 ŠEŠ-PA₄ 
+v.3.3 p_iš₁₁-a-*NE-*HAR 
+v.3.2 ÍB-Ⅲ-GÙN-SA₆-=TÚG 1 AKTUM-=TÚG 1 gu-zi-=TÚG 1 
+v.3.1 […] 
+v.3.0 cb1 
+v.2.5 cb2 
+v.2.4 […] p_*LAGAB×*ÚŠ-ra-a[r] 
+v.2.3 ŠUB GIŠ=-GU-KAK 1 ÍB-Ⅲ-GÙN-SA₆-=TÚG 1 AKTUM-=TÚG 1 gu-zi-tum-=TÚG 1 
+v.2.2 p_PUZUR₄-ra-D_ma-lik 
+v.2.1 ZÚ-AK MAR-TU GÍR 1 ÍB-Ⅲ-GÙN-SA₆-=TÚG 1 AKTUM-=TÚG [N] 
+v.2.0 cb1 
+v.1.8 cb2 
+v.1.7 p_*EN-X-[…] 
+v.1.6 p_du-*AN 
+v.1.5 p_wa-da-ra-im 
+v.1.4 p_ša-za-iš 
+v.1.3 p_zi-rí-ig 
+v.1.2 p_gú-lu-ga 
+v.1.1 […] 
+v.1.0 cb1 
+v.0.0 cb99 
+r.0.0 cb99 
+
+
+
+$ T 08 0531
+r.1.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.1.2 EN 
+r.1.3 g_*NI-ra-ar-=KI 
+r.1.4 5 ʾà-da-um-=TÚG-Ⅱ 5 AKTUM-=TÚG 5 ÍB-Ⅳ-=TÚG SA₆ DAR 
+r.1.5 ABBÁ-sù 
+r.1.6 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.1.7 [E]N 
+r.1.8 g_ra-ʾà-ag-=KI 
+r.1.9 4 ʾà-da-um-=TÚG-Ⅱ 4 AKTUM-=TÚG 4 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.1.10 ABBÁ-sù 
+r.1.11 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.1.12 EN 
+r.1.13 cb2 
+r.2.1 4 ÍB-Ⅲ-=TÚG SA₆ 
+r.2.2 ABBÁ-sù 
+r.2.3 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 1 ÍB-Ⅲ-=TÚG DAR 
+r.2.4 g_du-ub-=KI 
+r.2.5 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 1 ÍB-Ⅲ-=TÚG DAR 
+r.2.6 g_gàr-mu-=KI 
+r.2.7 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 1 ÍB-Ⅲ-=TÚG DAR 
+r.2.8 g_lum-na-an-=KI 
+r.2.9 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 
+r.2.10 g_kak-mi-um-=KI 
+r.2.11 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.2.12 cb2 
+r.3.1 2 ÍB-Ⅲ-=TÚG SA₆ 2 ÍB-Ⅲ-=TÚG DAR 
+r.3.2 ABBÁ-sù 
+r.3.3 20 *SAL-=TÚG 20 ÍB-Ⅲ-=TÚG DAR 
+r.3.4 GURUŠ-sù 
+r.3.5 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.3.6 EN 
+r.3.7 g_ir-i-dum-=KI 
+r.3.8 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 2 ÍB-Ⅲ-=TÚG DAR 
+r.3.9 ABBÁ-sù 
+r.3.10 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅳ-=TÚG SA₆  
+r.3.11 EN 
+r.3.12 g_i-bu₁₆-bu-=KI 
+r.3.13 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 2 ÍB-Ⅲ-=TÚG DAR 
+r.3.14 ABBÁ-sù 
+r.3.15 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.3.16 [ba-da]-lum 
+r.3.17 g_ha-ra-an-=KI 
+r.3.18 cb2 
+r.4.1 2 ÍB-Ⅲ-=TÚG SA₆ 1 ÍB-Ⅲ-=TÚG DAR 
+r.4.2 ABBÁ-sù 
+r.4.3 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.4.4 g_ar-ha-du-=KI 
+r.4.5 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 1 ÍB-Ⅲ-=TÚG DAR 
+r.4.6 ABBÁ-sù 
+r.4.7 1 ʾà-da-um‹-=TÚG›-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.4.8 g_hu-ti-mu-=KI 
+r.4.9 2 ʾà-da-um-=TÚG-Ⅱ 10 LÁ-3 GU-DÙL-=TÚG 2 AKTUM-=TÚG 10 LÁ-3 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 10 LÁ-3 ÍB-Ⅲ-=TÚG DAR 
+r.4.10 ABBÁ-sù 
+r.4.11 2 ʾà-da-um‹-=TÚG›-Ⅱ 2 ʾà-da-um‹-=TÚG›-Ⅰ 2 AKTUM-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 2 ÍB-Ⅲ-=TÚG DAR 
+r.4.12 [g_ù-t]i-gú-=KI 
+r.4.13 10 LÁ-3 ʾà-da-um-=TÚG-Ⅱ 10 LÁ-3 AKTUM-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.4.14 p_šu-ra-gàr-ru₁₂ 
+r.4.15 wa 
+r.4.16 ŠEŠ-sù 
+r.4.17 1 GU-DÙL-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+r.4.18 ABBÁ-sù 
+r.4.19 20 *SAL-=TÚG 20 ÍB-Ⅲ-=TÚG DAR 
+r.4.20 GURUŠ-sù 
+r.5.1 5 GU-DÙL-=TÚG 5 AKTUM-=TÚG 5 ÍB-Ⅲ-=TÚG DAR 
+r.5.2 g_ti-sum-=KI 
+r.5.3 20 *SAL-=TÚG 20 ÍB-Ⅳ-=TÚG DAR 
+r.5.4 ABBÁ-sù 
+r.5.5 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 2 ÍB-Ⅲ-=TÚG DAR 
+r.5.6 g_kab-lu₅-ul-=KI 
+r.5.7 1 AKTUM-=TÚG 1 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+r.5.8 g_áb-zu-=KI 
+r.5.9 2 ʾà-da-um-=TÚG-Ⅱ 2 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 2 ÍB-Ⅲ-=TÚG DAR 
+r.5.10 g_*NI-da-[dum-=KI] 
+r.5.11 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.5.12 1 DIB *ŠÚ@+*ŠA HUL 
+r.5.13 EN 
+r.5.14 g_lu-rí-*LUM!!-=KI 
+r.5.15 1 ʾà-da-um-=TÚG-Ⅰ 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+r.5.16 MAŠKIM-sù 
+r.5.17 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.6.1 g_ha-ša-lu-um-=KI 
+r.6.2 10 LÁ-3 ʾà-da-um-=TÚG-Ⅱ 10 LÁ-3 AKTUM-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG SA₆ 
+r.6.3 g_šu-bù-du-=KI 
+r.6.4 g_šu-bù-du-=KI-Ⅱ 
+r.6.5 g_šu-bù-ru₁₂-=KI 
+r.6.6 g_dar-*PI-ša-hu-=KI 
+r.6.7 g_*GIŠ-*LAM-=KI  
+r.6.8 g_a-la-u₉-=KI 
+r.6.9 g_iš-na-nu-=KI 
+r.6.10 2 GU-DÙL-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+r.6.11 2 g_na-bar-*NI-sum-=KI 
+r.6.12 10 LÁ-3 ʾà-da-um-=TÚG-Ⅱ 4 ʾà-da-um-=TÚG-Ⅰ 10 LÁ-3 AKTUM-=TÚG 4 *SAL-=TÚG 10 LÁ-3 ÍB-Ⅲ-=TÚG SA₆ DAR 4 ÍB-Ⅲ-=TÚG DAR 
+r.6.13 g_du-*AN[-=KI] 
+r.6.14 g_zi-[…-=KI] 
+r.6.15 g_al₆-da-ga-=KI 
+r.6.16 g_si-si-nu-=KI 
+r.6.17 g_ga-su-*PI-=KI 
+r.6.18 g_du-*AN-=KI 
+r.6.19 g_a-rí-mu-=KI 
+r.6.20 2 g_ha-ha-*NE-si-=KI 
+r.6.21 2 g_la-da-=KI 
+r.6.22 KAS₄-KAS₄ 
+r.6.23 p_ib-hur-*NI 
+r.6.24 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.6.25 EN 
+r.6.26 g_MAR-TU-=KI 
+r.6.27 10-1 GU-DÙL-=TÚG 
+r.6.28 10-1 *SAL-=TÚG 
+r.7.1 10-1 ÍB-Ⅲ-=TÚG DAR 
+r.7.2 ABBÁ-sù 
+r.7.3 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.7.4 EN 
+r.7.5 g_da-da-nu-=KI 
+r.7.6 2 GU-DÙL-=TÚG 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+r.7.7 ABBÁ-sù 
+r.7.8 3 ʾà-da-um-=TÚG-Ⅱ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG SA₆ DAR 
+r.7.9 g_ib-al₆-=KI 
+r.7.10 LÚ g_EDIN-=KI 
+r.7.11 3 GU-[DÙL-=TÚG] 3 *SAL-=TÚG 3 ÍB-Ⅲ-=TÚG [DAR] 
+r.7.12 g_si-da-ù-=KI 
+r.7.13 1 GU-DÙL-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+r.7.14 g_da-ù-=KI 
+r.7.15 10 LÁ-2 ʾà-[da]-um-=TÚG[-Ⅱ] [10 LÁ-]2 AK[TUM-=TÚG] 10 LÁ-2 [ÍB-Ⅲ-=TÚG] SA₆ 
+r.7.16 g_ib-a[l₆-=KI] 
+r.7.17 LÚ [PA₅] 
+r.7.18 4 ʾà-da-[um-=TÚG-Ⅱ] 4 GU-[DÙL-=TÚG] 4 AKTUM[-=TÚG] 4 *SAL[-=TÚG] 4 ÍB-Ⅲ[-=TÚG SA₆] 4 ÍB[-Ⅲ-=TÚG DAR] 
+r.7.19 g_lá-sa-nu[-=KI]  
+r.7.20 6 GU-MUG-=TÚG 6 *SAL-=TÚG 6 ÍB-Ⅱ[-=TÚG DAR] 
+r.7.21 g_ma-sa-nu-=KI  
+r.7.22 g_ʾà-ma-li-im-=KI 
+r.7.23 g_i-ti-ù-=KI 
+r.7.24 g_a-ʾà-ga-⸢*KU⸣-=KI 
+r.7.25 g_ʾà-za-=KI  
+r.7.26 g_a-da-ad-du!!-=KI 
+r.7.27 g_ib-al₆-=KI 
+r.7.28 1 TÚG DAR 1 AKTUM-=TÚG SA₆ 
+r.8.1 1 ÍB-Ⅲ-=TÚG SA₆ 
+r.8.2 p_ba-ha-*NI 
+r.8.3 g_ib-al₆-=KI 
+r.8.4 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 1 DIB-10 HUL 
+r.8.5 p_i-gu-*NI 
+r.8.6 g_ib-al₆-=KI 
+r.8.7 ŠU-DU₈ 
+r.8.8 10-2 ʾà-da-um-=TÚG-Ⅱ 10-2 AKTUM-=TÚG 10-2 ÍB-Ⅳ-=TÚG SA₆ DAR 
+r.8.9 p_PUZUR₄-r[a-*N]I 
+r.8.10 p_i-ti-*N[I] 
+r.8.11 p_al₆-ma-[…] 
+r.8.12 p_ar-si-a-h[u]?   
+r.8.13 p_il-da-m[i]  
+r.8.14 p_sá-ba-n[u] 
+r.8.15 10 p_m[a-…] 
+r.8.16 cb4 X[…] 
+r.8.2 5 ʾà-[da]-u[m-=TÚG-Ⅰ] 5 *SAL[-=TÚG] 5 ÍB[-Ⅲ]-=TÚG DAR 
+r.8.3 p_ur-na 
+r.8.4 p_!!*NI-lu-lu   
+r.8.5 p_mu-[…] 
+r.9.1 p_BE-sù-ga-ra-du 
+r.9.2 p_a-mu-KUR-=KI  
+r.9.3 LÚ-KAR 
+r.9.4 g_ma-rí-=KI 
+r.9.5 3 ʾà-da-um-=TÚG-Ⅱ 3 AKTUM-=TÚG 3 ÍB-Ⅲ[-=TÚG SA₆] 
+r.9.6 p_en-n[a-…] 
+r.9.7 p_*NI-n[a-]*N[E-…] 
+r.9.8 ⸢p_al₆|gú⸣ 
+r.9.9 cb2 
+r.10.0 cb3 
+r.11.0 cb3 
+r.12.0 cb3 
+v.1.1 [ 1 ʾà-da-um-=TÚG-Ⅱ] [ 1 AKTUM-=TÚG] 1 Í[B-Ⅲ-=TÚG] SA₆ [DAR] 
+v.1.2 p_ʾà-⸢X⸣-[…] 
+v.1.3 LÚ p_a-zu-gú-ra  
+v.1.4 GIŠ-NU-KIRI₆ 
+v.1.5 p_ìr-ʾà-ag-D_da-mu 
+v.1.6 Ì-NA-SUM 
+v.1.7 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.1.8 1 GÍR MAR-TU KÙ-GI 
+v.1.9 Ì-GIŠ-SAG 
+v.1.10 p_i-bí-zi-kir 
+v.1.11 LÚ p_i[b-]r[í-]um  
+v.1.12 5 ʾà-da-um-=TÚG-Ⅰ 5 *SAL-=TÚG 5 ÍB-Ⅳ-=TÚG DAR 
+v.1.13 p_PUZUR₄-D_DINGIR=-eš₄-dar 
+v.1.14 p_D_DINGIR=-EN-KI-URU-=KI 
+v.1.15 p_PUZUR₄-*NI 
+v.1.16 p_PUZUR₄-D_DINGIR=-eš₄-dar-Ⅱ 
+v.1.17 p_PUZUR₄-*NI[-Ⅱ] 
+v.1.18 cb2 
+v.2.1 p_ar-[…] 
+v.2.2 g_ga-du-*GIM-=KI 
+v.2.3 g_su-gú-ru₁₂-=KI 
+v.2.4 p_iš₁₁-gi-bar-zú 
+v.2.5 ŠU-BA₄-TI 
+v.2.6 5 AKTUM-=TÚG TI-=TÚG 
+v.2.7 EN 
+v.2.8 g_ur-sá-um-=KI 
+v.2.9 2 TÚG-GADA 5 *SAL-=TÚG 3 GU-MUG-=TÚG 
+v.2.10 GA-DU₈ 
+v.2.11 DUMU-NITA-sù 
+v.2.12 p_en-na-*NI 
+v.2.13 LÚ p_a-ba-dum 
+v.2.14 [ŠU-BA₄-T]I 
+v.2.15 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.2.16 p_iš₁₁-gi-ba-ìr  
+v.2.17 MAŠKIM 
+v.2.18 p_ir-ti 
+v.2.19 NÍG-*AN@|*AN.*AN@|*AN 
+v.2.20 g_ib-al₆-=KI 
+v.2.21 *TIL 
+v.2.22 wa 
+v.2.23 p_PUZUR₄-D_DINGIR=-ša-ma-gan 
+v.2.24 p_i-gu-[…] 
+v.2.25 cb2 
+v.3.1 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.3.2 p_en-na-D_ma-lik 
+v.3.3 g_*NI-ra-ar-=KI 
+v.3.4 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.3.5 p_šu-ì-lum 
+v.3.6 ŠU-MU-TAG₄ 
+v.3.7 ZAᵪ EN 
+v.3.8 1 GU-MUG-=TÚG 
+v.3.9 2 *DU 
+v.3.10 EN {X} 
+v.3.11 20-4 GU-MUG-=TÚG 20-4 *SAL-=TÚG 20-4 ÍB-Ⅲ-=TÚG DAR 
+v.3.12 DAR-DAR-UR₄ 
+v.3.13 2 GADA-=TÚG TÚG-MU 
+v.3.14 2 GADA-=TÚG g_SIG₄-=KI 2 GADA-=TÚG ŠU-*DAG 4 GADA-=TÚG 2:-ŠU  
+v.3.15 EN 
+v.3.16 2 ʾà-da-um-=TÚG-Ⅰ 2 *SAL-=TÚG [2 ÍB-Ⅲ]-=TÚG [DAR] 
+v.3.17 cb4 p_a-[…] 
+v.3.2 MAŠ[KIM] 
+v.3.3 cb2 
+v.4.1 5 AKTUM-=TÚG 
+v.4.2 20-5 *SAL-=TÚG 
+v.4.3 10 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.4.4 20 ÍB-Ⅲ-=TÚG DAR 
+v.4.5 p_en-na-ba-al₆ 
+v.4.6 MAŠKIM 
+v.4.7 p_i-bí-zi-kir 
+v.4.8 LÚ p_sá-gú-šum 
+v.4.9 [si-i]n 
+v.4.10 g_ga[-ga]-li₉!!-iš-=KI  
+v.4.11 ŠU-BA₄-TI 
+v.4.12 20-4 GU-MUG-=TÚG 20-4 *SAL-=TÚG 20-4 ÍB-Ⅲ-=TÚG DAR 
+v.4.13 p_ìr-az-*NI  
+v.4.14 p_daš-šè  
+v.4.15 p_gú-li-gú 
+v.4.16 [p_en-na]-*NI  
+v.4.17 [p_du-*AN]  
+v.4.18 p_*BAD-*É 
+v.4.19 p_ba-ša-ša-zu 
+v.4.20 p_BE-sù-DU₁₀ 
+v.4.21 p_ib-dur-i-šar 
+v.4.22 p_*UR-na-*NI 
+v.4.23 p_ba-du-lum 
+v.4.24 p_bù-da-*NI 
+v.4.25 p_ib-dur-D_DINGIR=-da-gan 
+v.4.26 p_bù-da-iš-lu 
+v.4.27 p_ʾà-*N[E] 
+v.4.28 p_*NI-zi-ma-*NI!!   
+v.4.29 p_iš-l[a-*NI]  
+v.4.30 p_en[-na-*NI-Ⅱ]  
+v.5.1 [p_mi-na]-*NI  
+v.5.2 p_en-na-D_DINGIR=-ra-sa-ap 
+v.5.3 p_a-bù-D_ma-lik 
+v.5.4 p_ša-ma-*NI 
+v.5.5 p_gu-*PI-nu 
+v.5.6 p_dub-bí 
+v.5.7 NAR-MAH 
+v.5.8 10 LÁ-3 GU-MUG-=TÚG 
+v.5.9 p_a-bí 
+v.5.10 p_ìr-*PÉŠ-zé 
+v.5.11 p_i-ti-*LUM 
+v.5.12 p_ma-ga-du 
+v.5.13 p_bu-D_DINGIR=-EN-KI 
+v.5.14 p_ib-dur-i-šar 
+v.5.15 p_ì-lum-*BAL 
+v.5.16 NAR-TUR 
+v.5.17 3 GU-DÙL-=TÚG [3] *SAL-=TÚG [3] ÍB-Ⅲ-=TÚG DAR 
+v.5.18 [NA]R MAH 
+v.5.19 [N+]1 GU-MUG-=TÚG […] 
+v.5.20 10 [G]U-[…-=TÚG] 10 ÍB-Ⅲ-=TÚG DAR 
+v.5.21 NAR-TUR 
+v.5.22 g_ma-rí-=KI 
+v.5.23 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.5.24 p_ʾà-mu-ru₁₂-gú 
+v.5.25 1 GU-DÙL-=TÚG 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.5.26 p_za-ma-ʾà-ru₁₂ 
+v.5.27 5 ʾà-da-um-=TÚG-Ⅰ 
+v.6.1 5 GU-MUG-=TÚG 10 AKTUM-=TÚG 10 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.6.2 p_dur-ʾà-*NE-zu 
+v.6.3 p_ba-du-lum 
+v.6.4 p_wa-da-ʾà 
+v.6.5 p_bar-i 
+v.6.6 p_bù-šu 
+v.6.7 [p_gú]-ba  
+v.6.8 [p_u₉-]ne[-núm] 
+v.6.9 [p_en]-na-*NI 
+v.6.10 [p_en]-na-*NI-Ⅱ 
+v.6.11 [p_ga]-da-na 
+v.6.12 20 GU-MUG-=TÚG 20 […]-=TÚG 
+v.6.13 […] 
+v.6.14 cb4 p_z[i-ru₁₂-šu] 
+v.6.2 p_gú-li- ‹lu- ›n[u?] 
+v.6.3 p_ù-rí-ha-mu 
+v.6.4 *HÚB-*HÚB 
+v.6.5 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.6.6 p_ig-bù-ul-D_ma-lik 
+v.6.7 5 GU-MUG-=TÚG 1 *SAL-=TÚG 5 ÍB-Ⅲ-=TÚG DAR 
+v.6.8 p_iš-la-da-du  
+v.6.9 p_en-na-*NI 
+v.7.1 p_dè-ni-gi-mu 
+v.7.2 p_in-na-[a-hu]  
+v.7.3 p_in-D_m[a-]l[ik]  
+v.7.4 MAŠKIM-[sù] 
+v.7.5 1 GU-DÙL[-=TÚG] 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.7.6 p_iš-má-ga-lu   
+v.7.7 3 GU-[MUG-=TÚG] 3 *SAL[-=TÚG] 3 Í[B-Ⅲ-=TÚG] DAR 
+v.7.8 p_zi-mi-na-a-hu 
+v.7.9 p_iš-da-má 
+v.7.10 p_šu-D_ma-lik 
+v.7.11 DUMU-NITA-sù 
+v.7.12 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.7.13 p_ʾà-da-[ša] 
+v.7.14 cb1?   
+v.7.15 p_[bù-ma-ù]  
+v.7.2 p_*NI-bù-ul-*NI 
+v.7.3 p_en-na-D_ma-lik 
+v.7.4 p_*NI-zi-ma-*NI 
+v.7.5 p_a-bù-D_ma-lik  
+v.7.6 ln3  
+v.7.7 1 GU-MUG-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.7.8 p_zi-kir-a-ba₄ 
+v.7.9 ln3  
+v.7.10 LÚ-E *KA.*MA  
+v.7.11 1 GU-MUG-=TÚG 1 *SAL-=TÚG 
+v.8.1 1 ÍB-Ⅲ-=TÚG DAR 
+v.8.2 p_ib-dur-*NI 
+v.8.3 LÚ-GI 
+v.8.4 5 ÍB-Ⅲ-=TÚG DAR 
+v.8.5 p_iš-la-*NI 
+v.8.6 p_za-*PI-*LUM 
+v.8.7 p_mu-gàr 
+v.8.8 p_mi-na-*NI 
+v.8.9 BA-ZA 
+v.8.10 p_*NE-gi-sa-ti 
+v.8.11 4 ʾà-da-um-=TÚG-Ⅰ 4 AKTUM-=TÚG 4 ÍB-Ⅲ-=TÚG SA₆ 
+v.8.12 4 DUMU-NITA 
+v.8.13 g_ʾà-gi-lu-=KI 
+v.8.14 2 ʾà-da-um-=TÚG-Ⅰ [1 G]U-[MUG]-=TÚG [1 ÍB-Ⅲ]-=TÚG DAR  
+v.8.15 […] 
+v.8.16 […X…] 
+v.8.17 4 DU[MU-NITA]  
+v.8.18 ga-g[a-…] 
+v.8.19 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ[-=TÚG] SA₆ DAR 
+v.8.20 p_sa-gi-[…] 
+v.8.21 SAG[I]  
+v.8.22 1 TÚG 
+v.8.23 AMA-sù 
+v.8.24 2 G[U-MU]G-=TÚG 2 ÍB[-Ⅲ-=TÚG] DAR 
+v.8.25 […]-sù 
+v.8.26 [10] LÁ-2 ʾà-da-Ⅱ 10 LÁ-2 AKTUM-=TÚG 10 LÁ-2 ÍB-Ⅲ-=TÚG SA₆  
+v.8.27 p_zi-ma-D_DINGIR=-*KU-ra 
+v.8.28 p_i-ti-a-gú 
+v.8.29 p_da-zi-ma-ad 
+v.8.30 p_ha-zi-ir 
+v.8.31 p_a-bù-D_DINGIR=-*KU-ra 
+v.8.32 p_a-bù 
+v.9.1 p_du-bí-zi-kir 
+v.9.2 p_du-bí-a-bí 
+v.9.3 MAŠKIM 
+v.9.4 p_i-bí-zi-kir 
+v.9.5 10-6!! ʾà-da-um-=TÚG-Ⅱ 10-6!! AKTUM-=TÚG 10-6!! ÍB-SA₆ 
+v.9.6 p_na-am₆-ha-lu 
+v.9.7 p_gú-ba-lum 
+v.9.8 p_íl-e-i-šar {X} 
+v.9.9 p_su-na-im 
+v.9.10 p_en-na-*NI 
+v.9.11 p_i-bí-zi-kir 
+v.9.12 […] 
+v.9.13 p_ʾà-⸢da⸣[-ša!!] 
+v.9.14 p_zi-*NI 
+v.9.15 p_ru₁₂-zi-D_ma-lik 
+v.9.16 p_PUZUR₄-D_ma-lik 
+v.9.17 p_a-bù-D_ma-lik 
+v.9.18 p_MÁŠ?-É? 
+v.9.19 p_bu-ma-*NI 
+v.9.20 p_ti-la-*NI 
+v.9.21 p_a-šu-D_ma-lik 
+v.9.22 ŠEŠ-PA₄ EN 
+v.9.23 10 LÁ-3 ʾà-da-=TÚG-Ⅱ 10 LÁ-3 AKTUM-=TÚG 10 ‹LÁ-3› ÍB-Ⅲ-=TÚG SA₆-SAG 
+v.9.24 MU-*DU 
+v.9.25 p_i-bí-zi-kir 
+v.9.26 m[a]-lik-dum 
+v.9.27 ŠU-BA₄-TI 
+v.9.28 1 ʾà-da-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.9.29 Ì-GIŠ-SAG 
+v.9.30 p_kum-da-ba-an 
+v.9.31 LÚ p_ha-ra-*NI 
+v.10.1 2 ʾà-da-um-=TÚG-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 
+v.10.2 p_ru₁₂-zi-D_ma-lik 
+v.10.3 LÚ p_i-bí-zi-kir 
+v.10.4 p_ʾà-da-ša 
+v.10.5 g_a-*KUL-=KI 
+v.10.6 in 
+v.10.7 g_a-rí-gú-=KI 
+v.10.8 ŠU-BA₄-TI 
+v.10.9 3 ʾà-da-um-=TÚG-Ⅱ 3 AKTUM-=TÚG 3 ÍB-Ⅲ-=TÚG SA₆ 
+v.10.10 p_du-bí-šum 
+v.10.11 ŠEŠ-PA₄ 
+v.10.12 D_DINGIR=-*NI-da-*KUL 
+v.10.13 g_ʾà-ma-du-=KI 
+v.10.14 p_i-na-uš-gú 
+v.10.15 g_i-bu₁₆-bu-=KI 
+v.10.16 p_ga-du-um 
+v.10.17 LÚ p_ib-gi-D_da-mu 
+v.10.18 2 ʾà-da-um-Ⅰ 2 *SAL-=TÚG 2 ÍB-Ⅲ-=TÚG DAR 
+v.10.19 p_zi-la-*NI 
+v.10.20 UGULA ENGAR {X} 
+v.10.21 p_ib-du-lu 
+v.10.22 *TUŠ.*LÚ 
+v.10.23 g_ʾà-ga-li₉-iš-=KI 
+v.10.24 p_in-D_ma-lik 
+v.10.25 MAŠKIM 
+v.10.26 p_ki-ti-ir 
+v.10.27 ŠU-DU₈ 
+v.10.28 g_u₉-ba-ù-=KI 
+v.10.29 2 ʾà-da-um-Ⅱ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 1 DIB *ŠÚ@+*ŠA HUL 
+v.10.30 p_ša-ba-gú 
+v.10.31 p_za-hi-lu 
+v.10.32 g_ar-ʾà-mu-=KI 
+v.10.33 1 GU-MUG-=TÚG 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.11.1 […]-*NI […] 
+v.11.2 […] *DAR 
+v.11.3 […-t]i 
+v.11.4 [N ʾà-da-um]-=TÚG-Ⅰ [N AKTUM]-=TÚG [N ÍB-Ⅲ-=TÚG] SA₆ 
+v.11.5 [Ì-GIŠ] SAG 
+v.11.6 [p_…]-D_da-mu 
+v.11.7 [g_…]-za-ar-=KI 
+v.11.8 1 ʾà-da-um-=TÚG-Ⅱ 1 ʾà-da-um-=TÚG-Ⅰ 2 AKTUM-=TÚG 2 ÍB-Ⅲ-=TÚG SA₆ 
+v.11.9 1 DIB-10 HUL 
+v.11.10 p_ga-ba-D_DINGIR=-da-gan 
+v.11.11 p_hu-su 
+v.11.12 g_du-ub-=KI 
+v.11.13 šu|d[a]-[…] 
+v.11.14 lá-x[…] 
+v.11.15 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.11.16 1 DIB *ŠÚ@+*ŠA 
+v.11.17 p_i-su-be-li-gú 
+v.11.18 g_ur-sá-um-=KI 
+v.11.19 *TUŠ.*LÚ 
+v.11.20 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.11.21 p_i-šè-mu 
+v.11.22 g_*NI-da-dum-=KI 
+v.11.23 1 ʾà-da-um-=TÚG-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.11.24 g_*NI-ra-ar-=KI 
+v.11.25 ŠU-MU-TAG₄ 
+v.11.26 p_gu-la-ʾà-du 
+v.11.27 1 ʾà-da-um-=TÚG-Ⅱ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.11.28 p_na-am₆-ha-lu 
+v.11.29 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.11.30 g_*NI-ra-ar-=KI 
+v.11.31 in 
+v.11.32 g_ma-du-=KI 
+v.11.33 ŠU-BA₄-TI 
+v.11.34 ŠU-MU-TAG₄ 
+v.11.35 1 p_za-b[ur]-ru₁₂ 
+v.12.0 cb1 
+v.12.1 [N ʾà-da-um-=TÚG-Ⅱ N AKTUM-=TÚ]G [N ÍB-Ⅲ-=T]ÚG SA₆ 
+v.12.2 [p_X-X]-*PI 
+v.12.3 p_za-*NI 
+v.12.4 LÚ p_ù-ti 
+v.12.5 *TUŠ.*LÚ 
+v.12.6 in 
+v.12.7 1 URU-=KI 
+v.12.8 g_ur-sá-um-=KI 
+v.12.9 1 ÍB-Ⅲ-=TÚG SA₆ 
+v.12.10 p_mi-D_DINGIR=-*KU-ra 
+v.12.11 C(X15).*KA 
+v.12.12 1 *SAL-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.12.13 p_*EN-zú-*PI-*AŠ! 
+v.12.14 LÚ p_i-šar 
+v.12.15 ŠU-MU-TAG₄ 
+v.12.16 ZAᵪ EN 
+v.12.17 1 GU-MUG-=TÚG 1 ÍB-Ⅲ-=TÚG DAR 
+v.12.18 1 DUMU-NITA URᵪ 
+v.12.19 in 
+v.12.20 g_a-ru₁₂-ga-du-=KI 
+v.12.21 ŠU-BA₄-TI 
+v.12.22 20-6 GU!!-MUG-=TÚG 20-6 ÍB-Ⅲ-=TÚG DAR 
+v.12.23 p_bù-zu-gú-*NE 
+v.12.24 p_mi-ga-*NI 
+v.12.25 p_hi-da 
+v.13.0 cb1 
+v.13.1 [N ʾà-da-um-=T]ÚG-Ⅰ 
+v.13.2 p_ʾà-da-ša 
+v.13.3 1 *KIN SIKI 
+v.13.4 NÍG-SAGŠU 
+v.13.5 EN 
+v.13.6 p_en-na-*NI 
+v.13.7 ŠU-BA₄-TI 
+v.13.8 2 *KIN SIKI 
+v.13.9 2 NÍG-GÌR-AK 1 KIRÌ:ÉŠ 
+v.13.10 p_i-bí-zi-kir 
+v.13.11 p_bù-da-D_ma-lik 
+v.13.12 ŠU-BA₄-TI 
+v.13.13 1 ZI-RÍ SIKI 
+v.13.14 DU₁₁-GA 
+v.13.15 NIDBÁ 
+v.13.16 D_DINGIR=-ra-sa-ap g_gú-nu 
+v.13.17 1 ʾà-da-Ⅰ 1 AKTUM-=TÚG 1 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.13.18 p_nab-ha-*NI 
+v.13.19 LÚ p_ra-i-zú 
+v.13.20 ce2 
+v.14.0 cb1 
+v.14.1 1 mi-at 6 ÍB-Ⅲ-=TÚG SA₆ DAR 
+v.14.2 3 mi-at 10 LÁ-1 ÍB-Ⅲ-=TÚG DAR 
+v.14.3 10-5 GADA-=TÚG 
+v.14.3a ln3 
+v.14.4 ŠU-NIGÍN 8 mi 30-2 TÚG-TÚG 
+v.14.5 10-5 GADA-=TÚG 
+v.14.6 1 mi-at 41 GU-MUG-=TÚG 
+v.14.7 ITI n_za-*LUL 
+v.14.8 ce2 
+
